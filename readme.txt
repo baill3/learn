@@ -8,3 +8,5 @@ ifu love me
 hahaha 
 
 wocao
+git is a distributed version control system.
+git is free software.
